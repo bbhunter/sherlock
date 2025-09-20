@@ -1,8 +1,7 @@
 APClips
-Coders Rank
+Freelance.habr
 GNOME VCS
 Giphy
-Gravatar
 HackerEarth
 Heavy-R
 LessWrong
@@ -23,3 +22,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
