@@ -1,6 +1,6 @@
 APClips
-Freelance.habr
-GNOME VCS
+CGTrader
+CyberDefenders
 Giphy
 HackerEarth
 Heavy-R
@@ -15,7 +15,6 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
