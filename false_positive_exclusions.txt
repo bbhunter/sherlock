@@ -1,10 +1,13 @@
 APClips
 Coders Rank
+CyberDefenders
+Freelancer
 GNOME VCS
 Giphy
+Gravatar
 HackerEarth
 Heavy-R
-LessWrong
+Itch.io
 LushStories
 Mydramalist
 PepperIT
@@ -12,11 +15,13 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
