@@ -1,4 +1,6 @@
 APClips
+Anilist
+Chess
 Coders Rank
 GNOME VCS
 Giphy
@@ -13,7 +15,6 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
@@ -23,3 +24,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
