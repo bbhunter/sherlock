@@ -1,7 +1,6 @@
 APClips
-Anilist
-Chess
 Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -24,4 +23,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
