@@ -1,12 +1,10 @@
 APClips
 BoardGameGeek
-CyberDefenders
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
