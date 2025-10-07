@@ -1,10 +1,8 @@
 APClips
 Coders Rank
 DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
-Gumroad
 HackerEarth
 Heavy-R
 LushStories
@@ -14,10 +12,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
-Wordnik
 YandexMusic
 kaskus
 opennet
 svidbook
-xHamster
