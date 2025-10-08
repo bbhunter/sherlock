@@ -1,10 +1,10 @@
 APClips
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -18,3 +18,4 @@ YandexMusic
 kaskus
 opennet
 svidbook
+xHamster
