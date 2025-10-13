@@ -1,10 +1,10 @@
 APClips
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -15,6 +15,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
-xHamster
