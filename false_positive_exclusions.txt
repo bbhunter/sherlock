@@ -1,10 +1,11 @@
 APClips
+BreachSta.rs Forum
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+GitBook
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
@@ -14,5 +15,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
+programming.dev
 svidbook
-xHamster
