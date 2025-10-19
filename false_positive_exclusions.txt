@@ -1,5 +1,7 @@
 APClips
 DeviantArt
+Dribbble
+Freelancer
 GNOME VCS
 Giphy
 LushStories
@@ -8,7 +10,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
