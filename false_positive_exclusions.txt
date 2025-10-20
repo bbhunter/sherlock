@@ -1,7 +1,5 @@
 APClips
-DeviantArt
-Dribbble
-Freelancer
+BreachSta.rs Forum
 GNOME VCS
 Giphy
 LushStories
@@ -10,8 +8,9 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
+WebNode
 Weblate
 YandexMusic
 opennet
 svidbook
+threads
