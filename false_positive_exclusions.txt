@@ -1,5 +1,4 @@
 APClips
-BreachSta.rs Forum
 Coders Rank
 GNOME VCS
 Giphy
@@ -11,5 +10,4 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 svidbook
