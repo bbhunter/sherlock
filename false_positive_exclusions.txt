@@ -1,6 +1,4 @@
 APClips
-Audiojungle
-BreachSta.rs Forum
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -14,6 +12,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
 xHamster
