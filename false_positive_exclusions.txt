@@ -2,18 +2,15 @@ APClips
 DeviantArt
 GNOME VCS
 Giphy
-LiveJournal
 LushStories
-OurDJTalk
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
-Strava
 Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
