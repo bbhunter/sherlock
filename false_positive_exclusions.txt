@@ -1,17 +1,17 @@
 APClips
+BoardGameGeek
 DeviantArt
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
