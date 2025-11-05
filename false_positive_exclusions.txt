@@ -1,9 +1,10 @@
 APClips
+CGTrader
 Coders Rank
 GNOME VCS
 Giphy
+HackerRank
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -11,6 +12,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
-phpRU
 svidbook
+xHamster
