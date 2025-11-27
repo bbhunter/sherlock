@@ -4,8 +4,8 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-HackerRank
-LushStories
+Gravatar
+LiveJournal
 PocketStars
 Reddit
 RocketTube
@@ -14,6 +14,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
-xHamster
