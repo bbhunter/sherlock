@@ -1,18 +1,21 @@
 APClips
+Anilist
 Archive.org
 Coders Rank
-DeviantArt
 GNOME VCS
+GeeksforGeeks
 Giphy
-Gravatar
-LiveJournal
+GitHub
+Itch.io
+LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
+Strava
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
