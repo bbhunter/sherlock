@@ -1,5 +1,8 @@
 APClips
 Archive.org
+Audiojungle
+Code Snippet Wiki
+Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -14,4 +17,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
+threads
