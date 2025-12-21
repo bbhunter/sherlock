@@ -1,13 +1,14 @@
 APClips
-Archive.org
+Academia.edu
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
-Minecraft
+Motherless
 PocketStars
 Rajce.net
 Reddit
@@ -17,4 +18,8 @@ SlideShare
 Splice
 Spotify
 Weblate
+YandexMusic
+phpRU
 svidbook
+threads
+xHamster
