@@ -8,7 +8,6 @@ Giphy
 Hubski
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Scribd
