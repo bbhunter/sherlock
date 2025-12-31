@@ -1,15 +1,12 @@
 APClips
 Archive.org
-BitBucket
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -19,6 +16,8 @@ Splice
 Spotify
 Weblate
 YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
