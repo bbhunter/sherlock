@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -13,7 +12,6 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -21,7 +19,5 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
