@@ -6,9 +6,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-LushStories
-Motherless
 PocketStars
 Realmeye
 Reddit
@@ -19,6 +18,7 @@ Smule
 Splice
 Spotify
 Trovo
+TryHackMe
 Weblate
 YandexMusic
 mercadolivre
