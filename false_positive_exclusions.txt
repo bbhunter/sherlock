@@ -1,11 +1,13 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
+DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-ImgUp.cz
 LushStories
 PocketStars
 Realmeye
@@ -16,6 +18,8 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
+TryHackMe
 Weblate
 YandexMusic
 mercadolivre
