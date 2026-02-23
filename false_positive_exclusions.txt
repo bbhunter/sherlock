@@ -6,20 +6,19 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Hubski
-LemmyWorld
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
 Trovo
@@ -30,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
