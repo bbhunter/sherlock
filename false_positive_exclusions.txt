@@ -1,21 +1,19 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -29,3 +27,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
