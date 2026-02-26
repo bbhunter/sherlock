@@ -7,7 +7,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -24,5 +24,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
