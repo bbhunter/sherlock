@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -14,7 +15,6 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -29,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
