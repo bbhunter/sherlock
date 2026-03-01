@@ -1,6 +1,6 @@
 APClips
 Archive.org
-CGTrader
+Codolio
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -29,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
