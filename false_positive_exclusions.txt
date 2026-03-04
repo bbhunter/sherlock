@@ -2,15 +2,16 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
-Minecraft
+LushStories
 Patched
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -28,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
