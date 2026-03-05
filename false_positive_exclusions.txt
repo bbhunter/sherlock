@@ -9,9 +9,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -26,7 +26,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
-xHamster
