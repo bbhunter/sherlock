@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Codolio
 DeviantArt
 GNOME VCS
@@ -9,9 +10,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
+Rarible
 Realmeye
 Reddit
 RocketTube
@@ -21,12 +22,14 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
