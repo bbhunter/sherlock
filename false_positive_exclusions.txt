@@ -6,11 +6,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -19,7 +19,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
@@ -30,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
