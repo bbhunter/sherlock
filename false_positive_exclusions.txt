@@ -1,14 +1,13 @@
 APClips
 Archive.org
-BoardGameGeek
 Codolio
-Cults3D
 DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Patched
 PocketStars
@@ -23,7 +22,9 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 mercadolivre
