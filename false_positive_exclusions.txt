@@ -1,7 +1,7 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -14,7 +14,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +26,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -34,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
