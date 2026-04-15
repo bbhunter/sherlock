@@ -3,6 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -11,24 +12,24 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Patched
 PocketStars
 Rarible
 Realmeye
 Reddit
+ReverbNation
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
