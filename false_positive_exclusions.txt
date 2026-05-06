@@ -3,20 +3,15 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
-ArtStation
 Bandcamp
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -35,8 +30,12 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+threads
+xHamster
