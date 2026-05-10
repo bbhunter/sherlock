@@ -4,13 +4,11 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -23,6 +21,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -39,4 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
+xHamster
