@@ -4,9 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Coders Rank
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -27,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -40,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
