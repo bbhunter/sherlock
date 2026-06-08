@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -13,7 +15,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -21,7 +25,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
