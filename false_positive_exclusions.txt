@@ -6,16 +6,16 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
-Minecraft
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -41,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
