@@ -13,9 +13,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -28,6 +26,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
@@ -42,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
