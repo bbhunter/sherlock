@@ -14,6 +14,7 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -22,10 +23,10 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
