@@ -14,9 +14,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Odysee
 Patched
 Pornhub
@@ -43,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
