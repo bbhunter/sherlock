@@ -10,7 +10,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -18,7 +17,6 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -32,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
