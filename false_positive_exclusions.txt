@@ -7,6 +7,7 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
+Duolingo
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -14,21 +15,25 @@ Hashnode
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
+Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -36,6 +41,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
