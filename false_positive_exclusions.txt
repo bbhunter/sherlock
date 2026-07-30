@@ -4,7 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+Carbonmade
 Chatujme.cz
 Codolio
 Cults3D
@@ -18,8 +18,8 @@ Hashnode
 Hubski
 Instapaper
 LessWrong
+LiveJournal
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -39,7 +39,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
