@@ -1,11 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -18,8 +17,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -48,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
