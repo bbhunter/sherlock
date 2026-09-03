@@ -5,21 +5,22 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -27,7 +28,6 @@ Pornhub
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
 RocketTube
 Scribd
@@ -41,6 +41,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
