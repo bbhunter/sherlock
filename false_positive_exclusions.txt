@@ -14,15 +14,17 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
+Gumroad
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -39,7 +41,6 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
 fixya
 hunting
