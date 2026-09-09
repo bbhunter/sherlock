@@ -18,6 +18,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -26,7 +28,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
@@ -48,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
