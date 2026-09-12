@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,20 +19,22 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
