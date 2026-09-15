@@ -4,6 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -16,7 +18,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -25,12 +26,12 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+Scratch
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
