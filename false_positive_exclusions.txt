@@ -5,15 +5,14 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
 Hashnode
@@ -53,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
