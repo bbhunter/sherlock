@@ -5,8 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,13 +14,17 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -35,14 +37,15 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
+YandexMusic
 authorSTREAM
 dailykos
 fixya
-hunting
 igromania
 interpals
 mercadolivre
