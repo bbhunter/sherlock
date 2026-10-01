@@ -14,17 +14,14 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
+HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
-Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -45,7 +42,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
+hunting
 igromania
 interpals
 mercadolivre
@@ -53,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
