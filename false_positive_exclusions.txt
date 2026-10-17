@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,11 +8,12 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
+Exposure
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -21,9 +23,11 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,6 +38,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -49,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-threads
