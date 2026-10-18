@@ -13,7 +13,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Exposure
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -22,10 +21,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
-LiveJournal
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -38,6 +38,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
