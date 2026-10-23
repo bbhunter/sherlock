@@ -22,8 +22,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -37,9 +35,12 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
+Trakt
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
