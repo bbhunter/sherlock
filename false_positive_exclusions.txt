@@ -2,23 +2,18 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,15 +29,12 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
