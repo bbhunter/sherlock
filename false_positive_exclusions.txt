@@ -1,7 +1,9 @@
 APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -13,6 +15,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itemfix
 ObservableHQ
 Odysee
 PCGamer
@@ -35,6 +38,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
