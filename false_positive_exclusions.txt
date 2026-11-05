@@ -15,10 +15,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itemfix
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -44,5 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
 xHamster
