@@ -17,6 +17,7 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
@@ -32,10 +33,10 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
