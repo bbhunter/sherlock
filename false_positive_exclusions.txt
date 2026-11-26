@@ -32,6 +32,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
