@@ -1,8 +1,11 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
 Blogger
+CTAN
 Chatujme.cz
 Codolio
 DeviantArt
@@ -41,6 +44,8 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
+xHamster
