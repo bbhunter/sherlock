@@ -3,9 +3,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
 Blogger
-CTAN
+Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -31,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -44,7 +42,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
